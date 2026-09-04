@@ -40,6 +40,12 @@ To quantify the change in distance between two GFP-KNL-2 centromeric signals dur
 
 The measurements showed a generally progressive increase in GFP-KNL-2 signal separation, with minor frame-to-frame fluctuations.
 
+## Signal-separation trajectory
+
+![GFP-KNL-2 centromeric signal separation over video time](CIL28778_signal_separation_graph.png)
+
+The centre-to-centre distance increased from 12.824 to 40.106 pixels across frames 39–57.
+
 ## Data
 
 - [Raw Fiji measurements: frames 39–57](CIL28778_separation_timeseries_frames39-57.csv)
