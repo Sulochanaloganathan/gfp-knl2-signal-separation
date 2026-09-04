@@ -8,7 +8,7 @@ This repository presents a secondary quantitative analysis of GFP-KNL-2 centrome
 
 ## Full report
 
-[Download the Analysis report](CIL28778_GFP-KNL2_Signal_Separation_Analysis.pdf)
+[Download the complete report](CIL28778_GFP-KNL2_Signal_Separation_Analysis.pdf)
 
 ## Objective
 
