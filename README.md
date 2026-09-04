@@ -67,6 +67,25 @@ The increasing distance is consistent with separation of GFP-KNL-2-positive cent
 
 The original microscopy data were obtained from Cell Image Library entry CIL:28778. The original movie is not redistributed in this repository and remains subject to the licence specified by the data provider.
 
+## Reproduce the analysis
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the analysis:
+
+```bash
+python analyze_signal_separation.py
+```
+
+The script generates:
+
+- `CIL28778_processed_timeseries.csv`
+- `CIL28778_signal_separation_python.png`
+
 ## Author
 
 **Sulochana Loganathan**
