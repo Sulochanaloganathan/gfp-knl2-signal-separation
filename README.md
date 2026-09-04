@@ -62,7 +62,7 @@ The increasing distance is consistent with separation of GFP-KNL-2-positive cent
 - Microsoft Excel
 - Microsoft PowerPoint
 - Microsoft Word
-
+ 
 ## Data attribution
 
 The original microscopy data were obtained from Cell Image Library entry CIL:28778. The original movie is not redistributed in this repository and remains subject to the licence specified by the data provider.
