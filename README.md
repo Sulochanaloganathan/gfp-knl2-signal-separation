@@ -6,6 +6,10 @@ Quantitative Fiji/ImageJ analysis of GFP-KNL-2 centromeric signal separation dur
 
 This repository presents a secondary quantitative analysis of GFP-KNL-2 centromeric signal dynamics during the first mitotic division of a *Caenorhabditis elegans* embryo. Manual centre-to-centre measurements were performed using Fiji/ImageJ.
 
+## Full report
+
+[Download the complete three-page analysis report](CIL28778_GFP-KNL2_signal_separation_report.pdf)
+
 ## Objective
 
 To quantify the change in distance between two GFP-KNL-2 centromeric signals during first mitosis.
