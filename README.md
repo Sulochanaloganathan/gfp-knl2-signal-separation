@@ -92,6 +92,14 @@ The script generates:
 - `CIL28778_processed_timeseries.csv`
 - `CIL28778_signal_separation_python.png`
 
+## Image licence and attribution
+
+The source microscopy material is from [Cell Image Library entry CIL:28778](https://www.cellimagelibrary.org/images/28778) and is licensed under the [Creative Commons Attribution–NonCommercial–ShareAlike 3.0 Unported licence](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+The microscopy frames used in this repository were cropped, annotated and quantitatively analysed by Sulochana Loganathan. These image-derived materials are shared under the same CC BY-NC-SA 3.0 licence.
+
+The original microscopy movie is not redistributed in this repository.
+
 ## Author
 
 **Sulochana Loganathan**
